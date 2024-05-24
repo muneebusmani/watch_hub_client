@@ -7,3 +7,4 @@ macos/
 windows/
 web/
 test/
+./pubspec.lock
